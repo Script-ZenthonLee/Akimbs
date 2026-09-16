@@ -2,7 +2,7 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Scrip
 
 local window = library:AddWindow("Kenzou | Public Version", {
     main_color = Color3.fromRGB(0, 0, 0),
-    min_size = Vector2.new(650, 870),
+    min_size = Vector2.new(600, 500),
     can_resize = true,
 })
 
