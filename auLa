@@ -5,3 +5,5 @@ local window = library:AddWindow("Kenzou | Public Version", {
     min_size = Vector2.new(650, 870),
     can_resize = true,
 })
+
+local MainTab = window:AddTab("Main")
