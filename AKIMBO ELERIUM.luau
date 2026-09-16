@@ -113,7 +113,7 @@ Window.ClipsDescendants = true
 Window.Position = UDim2.new(0, 20, 0, 20)
 Window.Selectable = true
 Window.Size = UDim2.new(0, 200, 0, 200)
-Window.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=103401220143849"
+Window.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=97488522149303"
 Window.ImageColor3 = Color3.new(0.0823529, 0.0862745, 0.0901961)
 Window.ScaleType = Enum.ScaleType.Slice
 Window.SliceCenter = Rect.new(12, 12, 12, 12)
